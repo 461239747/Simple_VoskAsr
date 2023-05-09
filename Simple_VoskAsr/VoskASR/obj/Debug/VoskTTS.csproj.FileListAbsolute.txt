@@ -1,0 +1,14 @@
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\libgcc_s_seh-1.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\libstdc++-6.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\libvosk.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\libwinpthread-1.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\VoskTTS.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\VoskTTS.pdb
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\Vosk.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\obj\Debug\VoskTTS.csproj.AssemblyReference.cache
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\obj\Debug\VoskTTS.csproj.CoreCompileInputs.cache
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\obj\Debug\VoskTTS.csproj.CopyComplete
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\obj\Debug\VoskTTS.dll
+C:\Users\Zhengwei\Desktop\百度TTSDemo\VoskTTS\obj\Debug\VoskTTS.pdb
