@@ -4,6 +4,7 @@
 语音录制使用的是NAudio库.你也可以使用其他方式来录制音频
 AudioUnit引用了NAudio包.
 VoskASR引用了Vosk包以及Newtonsoft.Json包.
+提示未找到模型文件时,请将VoskASR/ModelResources/vosk-model-small-cn-0.22.zip 解压至程序运行目录下
 
 This is a simple example of using Vosk for speech recognition in C#, based on the .NET 4.7.2 version. It supports calling from Unity and theoretically can be used in .NET Core as well.
 
@@ -15,5 +16,7 @@ NAudio library is used for audio recording in this example. You can also use oth
 
 AudioUnit references the NAudio package.
 
-VoskASR references the Vosk package and Newtonsoft.Json package.# Simple_VoskAsr
+VoskASR references the Vosk package and Newtonsoft.Json package.
+
+When prompted that the model file cannot be found, please unzip VoskASR/ModelResources/Vosk model small cn-0.22.zip to the program running directory
 # Simple_VoskAsr
